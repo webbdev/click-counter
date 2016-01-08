@@ -6,4 +6,4 @@ Create a simple webpage that has a cow image in the middle (centered horizontall
 Add the necessary code so that every time you click the cow image, the counter is incremented by 1. 
 The counter should start with a value of 0.
 
-[Visit here](http://webbdev.github.io/click-counter/).
+[View site](http://webbdev.github.io/click-counter/).
