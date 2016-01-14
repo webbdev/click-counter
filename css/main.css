@@ -37,6 +37,10 @@ h2 {
 	margin: 0;
 }
 
+#counter {
+	font-weight: bold;
+}
+
 #counter1 {
 	font-weight: 300;
 	font-size: 16px;
